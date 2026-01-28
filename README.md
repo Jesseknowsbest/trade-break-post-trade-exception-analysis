@@ -30,4 +30,4 @@ This analysis mirrors post-trade exception monitoring workflows used by Operatio
 
 ## Dashboard Preview
 
-![Post-Trade Dashboard](dashboard/Post-Trade_Exception_Dashboard.png)
+![Post-Trade Dashboard](/dashboard/Post-Trade_Exception_Dashboard.png)
