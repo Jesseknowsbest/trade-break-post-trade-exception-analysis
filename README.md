@@ -27,3 +27,7 @@ The dataset consists of 150 simulated trades across Equity, Fixed Income, and FX
 
 ## Business Relevance
 This analysis mirrors post-trade exception monitoring workflows used by Operations and Risk teams to identify bottlenecks, escalate high-risk trades, and support process improvement initiatives.
+
+## Dashboard Preview
+
+![Post-Trade Dashboard](dashboard/Post-Trade_Exception_Dashboard.png)
